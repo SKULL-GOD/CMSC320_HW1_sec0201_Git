@@ -1,18 +1,18 @@
 Q1: Why might we consider using Git?
 
-Answer: We use Git to coordinate version control and team collaboration.
+Answer: We use Git to coordinate version control and team collaboration to allow multiple team members to work on the same codebase simultaneously.
 
 
 Q2: What field could data science be applied to? Give an Example.
 
-Answer: Finance- for example, data science could be used for market trend analysis including stock predictions.
+Answer: Finance- for example, data science could be used for market trend analyses to help financial organizations shape raw market data into a clear strategy. 
 
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: Merging keeps the project's commit history while rebasing rewrites the commit history to make it easier to read and debug.
+Answer: Merging keeps the project's commit history while rebasing rewrites the commit history to make it easier to read and debug. Rebasing should only be used on local branches.
 
 
 Q4: What are you looking forward to this semester?
 
-Answer: I am looking forward to learning new skills in computer science to prepare for future careers.
+Answer: I am looking forward to learning new skills in data analysis to prepare for future careers.

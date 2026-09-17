@@ -6,3 +6,13 @@ Answer: We use Git to coordinate version control and team collaboration.
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Finance- for example, data science could be used for market trend analysis including stock predictions.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging keeps the project's commit history while rebasing rewrites the commit history to make it easier to read and debug.
+
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning new skills in computer science to prepare for future careers.
